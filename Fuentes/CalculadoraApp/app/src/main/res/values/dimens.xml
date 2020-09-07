@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanioLetra">30sp</dimen>
+    <dimen name="paddingGeneral">10dp</dimen>
+    <dimen name="topTxt">40dp</dimen>
+    <dimen name="altoBoton">100dp</dimen>
+</resources>

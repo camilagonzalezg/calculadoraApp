@@ -3,4 +3,7 @@
     <string name="mensaje_bienvenida">Hola mundo!</string>
     <string name="mensaje_bajada">Esta es una app de Calculadora</string>
     <string name="saludar">Saludar</string>
+    <string name="numero_1_txt">numero 1</string>
+    <string name="numero_2_txt">numero 2</string>
+    <string name="suma">suma</string>
 </resources>
